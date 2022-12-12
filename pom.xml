@@ -27,7 +27,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>testng_jenkins_log4j.xml</suiteXmlFile>
-							<suiteXmlFile>testng_Extent.xml</suiteXmlFile>
+							<!-- <suiteXmlFile>testng_Extent.xml</suiteXmlFile> -->
 							<suiteXmlFile>testngScreenshot.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>testng_mobile.xml</suiteXmlFile> -->
 						</suiteXmlFiles>
